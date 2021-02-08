@@ -1,0 +1,9 @@
+semester,modul,modul_id,credits,sws,uni,uni_id
+1,bgb_at,1,"7,5",5,Münster,1
+1,strafrecht_1,2,"7,5",5,Münster,1
+1,verfassungsrecht_1,3,6,4,Münster,1
+1,Zivilrecht 1,1,"7,5",5,Heidelberg,2
+2,fach_23,4,15,10,Münster,1
+2,fach_xy,4,"7,5",5,Heidelberg,2
+2,modul foobar,5,6,5,Heidelberg,2
+2,noch_ein_fach,1,6,7,Heidelberg,2
