@@ -1,9 +1,115 @@
 semester,modul,modul_id,credits,sws,uni,uni_id
-1,bgb_at,1,"7,5",5,Münster,1
-1,strafrecht_1,2,"7,5",5,Münster,1
-1,verfassungsrecht_1,3,6,4,Münster,1
-1,Zivilrecht 1,1,"7,5",5,Heidelberg,2
-2,fach_23,4,15,10,Münster,1
-2,fach_xy,4,"7,5",5,Heidelberg,2
-2,modul foobar,5,6,5,Heidelberg,2
-2,noch_ein_fach,1,6,7,Heidelberg,2
+1,bgb_at,1,,4,Bayreuth,3
+1,Staatsorganisationsrecht,101,,4,Bayreuth,3
+1,strafrecht_1,201,,4,Bayreuth,3
+1,Bausteine des Rechts,301,,2,Bayreuth,3
+1,BWL Einführung,302,,2,Bayreuth,3
+1,VWL Einführung,303,,2,Bayreuth,3
+1,Rechtsgeschichte,304,,2,Bayreuth,3
+1,Rechts- und Staatsphilosophie Einführung,305,,2,Bayreuth,3
+2,Allgemeines Schuldrecht,2,,4,Bayreuth,3
+2,Recht der gesetzlichen Schuldverhältnisse,3,,2,Bayreuth,3
+2,Grundrechte (früher Staatsrecht II),102,,4,Bayreuth,3
+2,Grundkurs Strafrecht II (Vertiefung AT und Delikte gegen Persönlichkeits- und Gemeinschaftswerte),202,,4,Bayreuth,3
+2,Allgemeine Staatslehre,306,,2,Bayreuth,3
+2,Verfassungsgechichte,307,,2,Bayreuth,3
+2,Rechtssoziologie,308,,2,Bayreuth,3
+3,Sachenrecht,4,,4,Bayreuth,3
+3,Recht der verträglichen Schuldverhältnisse,5,,4,Bayreuth,3
+3,Allgemeines Verwaltungsrecht und Verwaltungsprozessrecht,103,,6,Bayreuth,3
+3,Staatsrecht III: Bezüge zum Völker- und Europarecht,104,,2,Bayreuth,3
+3,Grundkurs Strafrecht III (Eigentums- und Vermögensdelikte),203,,4,Bayreuth,3
+4,Handelsrecht,6,,2,Bayreuth,3
+4,Gesellschaftsrecht I,7,,2,Bayreuth,3
+4,Arbeitsrecht,8,,2,Bayreuth,3
+4,Verbraucherrecht,9,,2,Bayreuth,3
+4,Familienrecht,10,,2,Bayreuth,3
+4,Besonderes Verwaltungsrecht,105,,6,Bayreuth,3
+4,Strafprozessrecht,204,,3,Bayreuth,3
+4,Seminar,,,2,Bayreuth,3
+5,Erbrecht,11,,2,Bayreuth,3
+5,Zivilprozessrecht,12,,4,Bayreuth,3
+5,Zivilprozessrecht Pflichtübung,13,,2,Bayreuth,3
+5,Staats- und Verfassungsrecht,106,,1,Bayreuth,3
+5,Europarecht,107,,4,Bayreuth,3
+5,Öffentliches Recht Pflichtübung,108,,3,Bayreuth,3
+5,Kreditsicherungsrecht,14,,2,Bayreuth,3
+6,Zwangsvollstreckungsrecht,15,,2,Bayreuth,3
+6,Methodenlehre,309,,2,Bayreuth,3
+1,Grundkurs Zivilrecht I,1,,6,Heidelberg,2
+1,Grundkurs Strafrecht I,201,,4,Heidelberg,2
+1,Deutsche Rechtsgeschichte,304,,2+1,Heidelberg,2
+1,Römisches Recht,310,,2+1,Heidelberg,2
+1,Rechtsphilosophie,305,,2,Heidelberg,2
+1,Grundkurs Staatsrecht I,101,,4,Heidelberg,2
+2,Grundkurs Zivilrecht II,2,,4,Heidelberg,2
+2,Gesetzliche Schuldverhältnisse,3,,2,Heidelberg,2
+2,Grundkurs Strafrecht II,202,,4,Heidelberg,2
+2,Grundkurs Staatsrecht II,102,,2,Heidelberg,2
+2,Verfassungsgeschichte der Neuzeit,307,,2,Heidelberg,2
+2,"Übung im Strafrecht für Anfänger, ",202,,2,Heidelberg,2
+3,"Übung im Bürgerlichen Recht für Anfänger, ",16,,2,Heidelberg,2
+3,"Vertragliche Schuldverhältnisse, ",5,,2,Heidelberg,2
+3,"Mobiliarsachenrecht, ",4,,2,Heidelberg,2
+3,Handelsrecht,6,,2,Heidelberg,2
+3,Grundkurs Strafrecht III (BT 2),203,,2,Heidelberg,2
+3,Strafprozessrecht,204,,3,Heidelberg,2
+3,Übung im Öffentlichen Recht für Anfänger,102,,2,Heidelberg,2
+3,Polizeirecht,105,,2,Heidelberg,2
+3,Europarecht I ,107,,2,Heidelberg,2
+4,"Immobiliarsachenrecht, ",4,,2,Heidelberg,2
+4,"Familienrecht,",10,,1,Heidelberg,2
+4,"Arbeitsrecht,",8,,4,Heidelberg,2
+4,"Zivilverfahrensrecht I, ",12,,2,Heidelberg,2
+4,Grundkurs Strafrecht IV ,203,,2,Heidelberg,2
+4,"Übung im Strafrecht für Fortgeschrittene,",203,,2,Heidelberg,2
+4,"Allgemeines Verwaltungsrecht (incl. Grundzüge Staatshaftung),",103,,4,Heidelberg,2
+4,"Verwaltungsprozessrecht, ",103,,2,Heidelberg,2
+4,"Einführung in das Steuerrecht, ",311,,,Heidelberg,2
+4,Römisches Privatrecht,304,,2+1,Heidelberg,2
+4,Privatrechtgeschichte der Neuzeit,304,,2+1,Heidelberg,2
+4,Methodenlehre,309,,2,Heidelberg,2
+4,"Europarecht II, ",107,,2,Heidelberg,2
+4,Internationales Privatrecht I,17,,2,Heidelberg,2
+5,"Zivilverfahrensrecht II, ",15,,2,Heidelberg,2
+5,"Erbrecht, ",11,,2,Heidelberg,2
+5,"Gesellschaftsrecht, ",7,,3,Heidelberg,2
+5,"Übung im Bürgerlichen Recht für Fortgeschrittene, ",18,,2,Heidelberg,2
+5,"Kommunalrecht, ",105,,2,Heidelberg,2
+5,"Baurecht, ",105,,2,Heidelberg,2
+5,Rechtsvergleichung,312,,2,Heidelberg,2
+5,Rechtssoziologie,308,,2,Heidelberg,2
+5,"Staatsrecht III Vertiefung,",106,,2,Heidelberg,2
+6,"WuV I: Kreditsicherungsrecht, ",14,,2,Heidelberg,2
+6,"WuV II: Europäisches Privatrecht, ",9,,2,Heidelberg,2
+6,"Übung im Öffentlichen Recht für Fortgeschrittene, ",108,,2,Heidelberg,2
+6,Staatshaftung Vertiefung,106,,2,Heidelberg,2
+1,BGB allgemeiner Teil,1,,,Münster,1
+1,Strafrecht 1,201,,,Münster,1
+1,Verfassungsrecht  1,101,,,Münster,1
+1,BGB arbeitsgemeinschaft,,,,Münster,1
+1,Strafrecht arbeitsgemeinschaft,,,,Münster,1
+1,Verfassungsrecht arbeitsgemeinschaft,,,,Münster,1
+1,Grundlagenfach,,,,Münster,1
+2,Verbraucherschutzrecht,9,,,Münster,1
+2,Bes. Vertragsrecht ,5,,,Münster,1
+2,Allgemeines Schuldrecht ,2,,,Münster,1
+2,Verfassungsrecht 2,102,,,Münster,1
+2,Strafrecht 2,202,,,Münster,1
+2,Grundlagenfach,,,,Münster,1
+2,Schluesselqualifikation,,,,Münster,1
+3,Sachenrecht,4,,,Münster,1
+3,Familienrecht,10,,,Münster,1
+3,Verwaltungsrecht allgemeiner Teil + Verwaltungsprozessrecht,103,,,Münster,1
+3,Verwaltungsrecht BT 1 (Gefahrenabwehrrecht),105,,,Münster,1
+3,Strafrecht 3,203,,,Münster,1
+4,Kreditsicherungsrecht,14,,,Münster,1
+4,Erbrecht,11,,,Münster,1
+4,ZPO 1,12,,,Münster,1
+4,Verwaltungsrecht_BT_2_(Kommunalrecht_und_Bauleitplanung),106,,,Münster,1
+4,Gesellschaftsrecht,7,,,Münster,1
+5,ZPO_2,15,,,Münster,1
+5,Handelsrecht,6,,,Münster,1
+5,Grundzüge_des_IPR,17,,,Münster,1
+5,Grundzüge_des_Arbeitsrecht,8,,,Münster,1
+6,Fremdsprachige_Veranstaltung,,,,Münster,1
