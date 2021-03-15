@@ -1,9 +1,26 @@
-Name,Semester,Uni
-Lisa Müller,1,Bayreuth
-Markus Meier,1,Münster
-Perter Bäcker,1,Heidelberg
-Hans Wurst,1,Bayreuth
-Lena Gärtner,1,Münster
-Dorothe Doll,1,Heidelberg
-Maraike Metzger,1,Bayreuth
-Anna Herzog,1,Münster
+Name,Semester,Uni,Auswahl
+Lisa Müller,4,Bayreuth,Handelsrecht
+Lisa Müller,4,Bayreuth,Gesellschaftsrecht I
+Lisa Müller,4,Bayreuth,Besonderes Verwaltungsrecht
+Lisa Müller,4,Bayreuth,Strafprozessrecht
+Lukas Justus,5,Bayreuth,Erbrecht
+Dieter Schulz,3,Heidelberg,Handelsrecht
+Dieter Schulz,3,Heidelberg,Strafprozessrecht
+Dieter Schulz,3,Heidelberg,Polizeirecht
+Dieter Schulz,3,Heidelberg,Mobiliarsachenrecht
+Sonja Meier,5,Heidelberg,Gesellschaftsrecht
+Sonja Meier,5,Heidelberg,Baurecht
+Sonja Meier,5,Heidelberg,Staatsrecht III Vertiefung
+Sonja Meier,5,Heidelberg,Erbrecht
+Markus Meier,3,Münster,Staatsrecht III: Bezüge zum Völker- und Europarecht
+Markus Meier,3,Münster,Sachenrecht
+Peter Bäcker,4,Münster,Gesellschaftsrecht
+Peter Bäcker,4,Münster,Erbrecht
+Sara Schmidt,4,Münster,Gesellschaftsrecht
+Sara Schmidt,4,Münster,Erbrecht
+Sara Schmidt,4,Münster,Verwaltungsrecht_BT_2_(Kommunalrecht_und_Bauleitplanung)
+Hans Wurst,1,Bayreuth,bgb_at
+Lena Gärtner,5,Münster,Handelsrecht
+Dorothe Doll,1,Heidelberg,Grundkurs Zivilrecht I
+Maraike Metzger,1,Bayreuth,bgb_at
+Anna Herzog,1,Münster,BGB allgemeiner Teil
